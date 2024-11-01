@@ -20,24 +20,19 @@
   },
   "Gallery": [
     {
-      "title": "Beginner Classes",
-      "largeImage": "img/portfolio/beginner-large.jpg",
-      "smallImage": "img/portfolio/beginner-small.jpg"
-    },
-    {
       "title": "Advanced Techniques",
-      "largeImage": "img/portfolio/advanced-large.jpg",
+      "largeImage": "img/portfolio/pic2.jpg",
       "smallImage": "img/portfolio/advanced-small.jpg"
     },
     {
-      "title": "Live Performances",
-      "largeImage": "img/portfolio/live-large.jpg",
-      "smallImage": "img/portfolio/live-small.jpg"
+      "title": "Beginner Classes",
+      "largeImage": "img/portfolio/pic1.jpg",
+      "smallImage": "img/about.jpg"
     },
     {
-      "title": "One-on-One Sessions",
-      "largeImage": "img/portfolio/oneonone-large.jpg",
-      "smallImage": "img/portfolio/oneonone-small.jpg"
+      "title": "Live Performances",
+      "largeImage": "img/portfolio/pic4.jpg",
+      "smallImage": "img/portfolio/live-small.jpg"
     }
   ],
   "Services": [
@@ -47,17 +42,12 @@
       "text": "Learn the fundamentals of guitar playing, including chords, strumming, and basic music theory."
     },
     {
-      "icon": "fa fa-guitar",
-      "name": "Advanced Techniques",
-      "text": "Master advanced techniques such as fingerpicking, soloing, and improvisation."
-    },
-    {
       "icon": "fa fa-users",
       "name": "Group Classes",
       "text": "Join group classes to learn and play with other guitar enthusiasts."
     },
     {
-      "icon": "fa fa-video",
+      "icon": "fa fa-laptop",
       "name": "Online Lessons",
       "text": "Access our online lessons and learn from the comfort of your home."
     }
@@ -81,38 +71,23 @@
   ],
   "Team": [
     {
-      "img": "img/team/instructor1.jpg",
-      "name": "John Doe",
-      "job": "Lead Instructor"
-    },
-    {
-      "img": "img/team/instructor2.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Instructor"
-    },
-    {
-      "img": "img/team/instructor3.jpg",
-      "name": "Jane Doe",
-      "job": "Instructor"
-    },
-    {
-      "img": "img/team/instructor4.jpg",
-      "name": "Karen Doe",
+      "img": "img/about.jpg",
+      "name": "Jagjeet Singh Dangi",
       "job": "Instructor"
     }
   ],
   "Contact": {
-    "address": "1234 Music Lane, Nashville, TN 37203",
-    "phone": "+1 555 123 4567",
-    "email": "info@guitarclasses.com",
-    "facebook": "facebook.com/guitarclasses",
-    "twitter": "twitter.com/guitarclasses",
-    "youtube": "youtube.com/guitarclasses"
+    "address": "Indore, India",
+    "phone": "+919131078468",
+    "email": "jagjeetdangi13@gmail.com",
+    "facebook": "https://www.facebook.com/share/fp5AjbRDX8g1hVXQ/",
+    "twitter": "https://www.instagram.com/jagjeet_singh_dangi?igsh=MW11bW5tdWk1Z3BieQ==",
+    "youtube": "https://youtube.com/@kalyanijuniors9241?si=nA-hqZIvlFMkqpt6"
   },
   "Features": [
     {
       "icon": "fa fa-music",
-      "title": "Expert Instructors",
+      "title": "Expert Instructor",
       "text": "Learn from the best in the industry with years of experience."
     },
     {

@@ -6,10 +6,10 @@ export const Team = (props) => {
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Meet the Team</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+          {/* <p>
+            We are a team of talented professionals who are passionate about
+            what we do. Get to know us better.
+          </p> */}
         </div>
         <div id="row">
           {props.data
